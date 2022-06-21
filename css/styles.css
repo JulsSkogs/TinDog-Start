@@ -1,6 +1,10 @@
+body {
+    font-family: 'Montserrat';
+}
+
 #title {
   background-color: #FF4C68;
-  font-family: 'Montserrat';
+  color: white;
 }
 
 h1 {
