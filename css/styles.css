@@ -51,6 +51,10 @@ h1 {
 }
 
 /* Features Section */
+#feature {
+  padding: 7% 15%;
+}
+
 h3 {
   font-family: 'Montserrat';
   font-weight: 900;
