@@ -21,7 +21,7 @@ h1 {
 /* Navigation Bar */
 
 .navbar {
-  padding-bottom: 0 0 4.5rem;
+  padding: 0 0 4.5rem;
 }
 
 .navbar-brand {
@@ -38,4 +38,8 @@ h1 {
   font-size: 1.2rem;
   font-family: 'Montserrat';
   font-weight: 100;
+}
+
+.navbar-toggler {
+  padding: 10px;
 }
