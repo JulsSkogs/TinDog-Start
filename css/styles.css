@@ -61,6 +61,10 @@ h3 {
   color: #EF8172;
 }
 
+.feature-icon:hover {
+  color: #FF4C68;
+}
+
 .feature-blurb {
   color: #8F8F8F;
 }
