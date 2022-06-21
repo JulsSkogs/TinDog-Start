@@ -55,6 +55,11 @@ h1 {
   padding: 7% 15%;
 }
 
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
 h3 {
   font-family: 'Montserrat';
   font-weight: 900;
@@ -70,6 +75,6 @@ h3 {
   color: #FF4C68;
 }
 
-.feature-blurb {
+p {
   color: #8F8F8F;
 }
