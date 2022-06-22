@@ -95,5 +95,5 @@ p {
 }
 
 .pebbles-image {
-  radius: 80%;
+  border-radius: 80%;
 }
