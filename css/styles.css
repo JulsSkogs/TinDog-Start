@@ -93,3 +93,7 @@ p {
   background-color: #EF8172;
   color: #fff;
 }
+
+.pebbles-image {
+  radius: 80%;
+}
