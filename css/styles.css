@@ -59,7 +59,7 @@ h3 {
 /* Title Image */
 .title-image {
   width: 60%;
-  /* transform: rotate(25deg); */
+  transform: rotate(25deg);
 }
 
 /* Features Section */
@@ -86,18 +86,20 @@ p {
 }
 
 /* Testimonial Section */
-
 #testimonials {
-  padding: 7% 15%;
   text-align: center;
   background-color: #EF8172;
   color: #fff;
 }
 
-.pebbles-image {
+.testimonial-image {
   width: 10%;
   border-radius: 100%;
   margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
 }
 
 #press {
@@ -106,7 +108,18 @@ p {
   padding-bottom: 3%;
 }
 
-.press-logos{
+.press-logos {
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+/* Pricing Info */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
 }
