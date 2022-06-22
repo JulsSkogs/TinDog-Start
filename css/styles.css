@@ -14,6 +14,12 @@ h1 {
   line-height: 1.5;
 }
 
+h3 {
+  font-family: 'Montserrat';
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
 .container-fluid {
   padding: 3% 15%;
 }
@@ -58,12 +64,6 @@ h1 {
 .feature-box {
   text-align: center;
   padding: 5%;
-}
-
-h3 {
-  font-family: 'Montserrat';
-  font-weight: 900;
-  font-size: 1.5rem;
 }
 
 .feature-icon {
